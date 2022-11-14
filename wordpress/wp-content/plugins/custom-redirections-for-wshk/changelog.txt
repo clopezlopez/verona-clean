@@ -1,0 +1,43 @@
+----------------------------------------------------------------------------------------------------------------------
+Woo Shortcodes Kit PRO v 1.1.9 (18/04/22) by Alberto G. - https://disespubli.com/
+
+
+
+Included:
+
+= 1.1.9 =
+ *Changelog (18/04/22)
+
+
+NEW
+----------- 
+
++ Function TOTAL SALES AMOUNT BY PRODUCT CATEGORY
+
++ Function TOTAL SALES COUNTER BY PRODUCT CATEGORY
+
+
+UPDATED
+----------- 
+
++ Spanish translation.
+
++ English template.
+
+
+COMPATIBILITY TEST
+--------------------- 
+
++ Compatible and tested with WordPress v.5.9.3
++ Compatible and tested with WooCommerce v.6.4.1
++ Compatible and tested with Woo Shortcodes Kit v.2.0.2
+
+----------------------------------------------------------------------------------------------------------------------
+
+== Upgrade Notice ==
+
+
+= 1.1.9 =
+ *Changelog (18/04/22)
+
+PLEASE READ ALWAYS THE CHANGELOG BEFORE TO UPDATE.

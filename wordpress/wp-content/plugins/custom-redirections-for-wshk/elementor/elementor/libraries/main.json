@@ -1,0 +1,34 @@
+{
+  "templates": [
+    {
+      "title": "WSHK YOGA01-Shop",
+      "json_data": "template01/template.json",
+      "thumbnail": "template01/thumbnail-shop.jpg",
+      "preview_url": "https://template01.wshktemplates.ceonixt.com/custom-shop/"
+    },
+    {
+      "title": "WSHK YOGA01-Cart",
+      "json_data": "template02/template.json",
+      "thumbnail": "template02/thumbnail-cart.jpg",
+      "preview_url": "https://template01.wshktemplates.ceonixt.com/cart/"
+    },
+    {
+      "title": "WSHK YOGA01-Checkout",
+      "json_data": "template03/template.json",
+      "thumbnail": "template03/thumbnail-checkout.jpg",
+      "preview_url": "https://template01.wshktemplates.ceonixt.com/checkout/"
+    },
+    {
+      "title": "WSHK YOGA01-Thanks",
+      "json_data": "template04/template.json",
+      "thumbnail": "template04/thumbnail-thanks.jpg",
+      "preview_url": "https://template01.wshktemplates.ceonixt.com/thank-you/"
+    },
+    {
+      "title": "WSHK YOGA01-Full account",
+      "json_data": "template05/template.json",
+      "thumbnail": "template05/thumbnail-account.jpg",
+      "preview_url": "https://template01.wshktemplates.ceonixt.com/my-account/"
+    }
+  ]
+}

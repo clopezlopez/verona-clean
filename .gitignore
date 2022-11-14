@@ -1,0 +1,5 @@
+*.logs
+.docker/
+nginx-conf/
+.env
+docker-compose.yml

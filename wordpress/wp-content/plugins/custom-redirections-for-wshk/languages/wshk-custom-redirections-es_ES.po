@@ -1,0 +1,1512 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Redirections for WSHK\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-26 09:03+0000\n"
+"PO-Revision-Date: 2022-04-14 18:16+0000\n"
+"Last-Translator: Alberto G.\n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.1; wp-5.9.2"
+
+#: cusre-settings.php:846
+msgid ""
+" To customize the redirection of advanced actions, you need to go to WOO "
+"SHORTCODES KIT PRO SETTINGS, look for the function called: Custom "
+"redirections for advanced actions of WooCommerce my account, and configure "
+"the ID of the Subscription container to redirect."
+msgstr ""
+"Para personalizar las redirecciones de las acciones avanzadas, necesitas ir "
+"a AJUSTES WOO SHORTCODES KIT PRO, buscar la función llamada: Redirecciones "
+"personalizadas para acciones avanzadas de la página de cuenta de WooCommerce "
+"y configurar la ID del contenedor de suscripciones."
+
+#: cusre-settings.php:757
+msgid "#my-tabs"
+msgstr "#my-tabs"
+
+#: cusre-settings.php:918
+msgid "$,€..."
+msgstr "$,€..."
+
+#: cusre-settings.php:1267
+msgid "(The file size limit will restrict uploading files with a larger size.)"
+msgstr ""
+"(El límite de tamaño de archivo restringirá la carga de archivos con un "
+"tamaño mayor)."
+
+#: cusre-settings.php:259 cusre-settings.php:260 cusre-settings.php:261
+#: cusre-settings.php:262 cusre-settings.php:263 cusre-settings.php:264
+#: cusre-settings.php:265 cusre-settings.php:266
+msgid "Account page"
+msgstr "Página de cuenta"
+
+#: custom-redirections-for-whsk.php:374
+msgid "Activate"
+msgstr "Activar"
+
+#: custom-redirections-for-whsk.php:357
+msgid ""
+"Activate the license and back to the WSHK settings panel to enjoy with your "
+"new addon!"
+msgstr ""
+"¡Activa la licencia y vuelve al panel de ajustes de WSHK para empezar a "
+"disfrutar tu nuevo complemento!"
+
+#: cusre-settings.php:218
+msgid ""
+"Activating this function, you can use the WSHK shortcodes and configure the "
+"options directly from Elementor builder to build your custom account page."
+msgstr ""
+"Activando esta función, puedes utilizar los shortcodes de WSHK y configurar "
+"las opciones directamente desde Elementor para construir tu página de cuenta "
+"personalizada."
+
+#: elementor/widgets/widget9.php:130
+msgid ""
+"Activating this option, the tabs will get a slug and will can be linkeables "
+"from the same page using your custom links and from external pages too."
+msgstr ""
+"Al activar esta opción, las pestañas obtendrán un slug y se pueden enlazar "
+"desde la misma página usando sus enlaces personalizados y también desde "
+"páginas externas."
+
+#: custom-redirections-for-whsk.php:290 elementor/widgets/widget9.php:695
+msgid "Active"
+msgstr "Activa"
+
+#: cusre-settings.php:755
+msgid "Add here the ID used on DIVI tabs module"
+msgstr "Añade aquí la ID utilizada en el módulo de pestañas de DIVI"
+
+#: cusre-settings.php:760
+msgid "Add here the ID used on DIVI text modules"
+msgstr "Añade aquí la ID utilizada en el módulo de texto de DIVI"
+
+#: cusre-settings.php:765
+msgid "Add in the function tabs ID field the same ID used on the tabs module"
+msgstr ""
+"Añade en el campo ID de las pestañas de función el mismo ID utilizado en el "
+"módulo de pestañas"
+
+#: cusre-settings.php:765
+msgid ""
+"Add in the function texts module field the same ID used on the texts modules "
+"without the number.E.G: open-tab"
+msgstr ""
+"Añade en el campo del módulo de textos el mismo ID utilizado en los módulos "
+"de textos sin el número. por ejemplo: open-tab"
+
+#: cusre-settings.php:190
+msgid "Add the account shortcodes from Elementor builder with drag and drop!"
+msgstr ""
+"¡Añade los shortcodes de cuenta desde Elementor con solo arrastrar y soltar!"
+
+#: cusre-settings.php:999
+msgid "Add the container/tab ID"
+msgstr "Añadir ID del contenedor/pestaña"
+
+#: cusre-settings.php:765
+msgid "Add the shortcode on the account page"
+msgstr "Añadir shortcode en la página de cuenta"
+
+#: cusre-settings.php:1679
+msgid "ADD YOUR LICENCE FOR ACTIVATE THE ADDON FUNCTIONS"
+msgstr "AÑADE TU LICENCIA PARA ACTIVAR LAS FUNCIONES DEL COMPLEMENTO"
+
+#: elementor/widgets/widget9.php:294
+msgid "Addresses"
+msgstr "Direcciones"
+
+#: cusre-settings.php:1018
+msgid "Addresses container ID: "
+msgstr "ID contenedor Direcciones:"
+
+#: elementor/widgets/widget9.php:31
+msgid "Advanced Tabs"
+msgstr "Pestañas Avanzadas"
+
+#: cusre-settings.php:256
+msgid ""
+"Advanced tabs for Elementor (built directly into WSHK shortcodes for "
+"Elementor)"
+msgstr ""
+"Pestañas avanzadas para Elementor (integradas directamente en los shortcodes "
+"de WSHK para Elementor)"
+
+#: elementor/widgets/widget7.php:67
+msgid ""
+"After login the user will be redirected to the selected page. The admin will "
+"be redirected to the backend."
+msgstr ""
+"Tras iniciar sesión el usuario será redireccionado a la página seleccionada. "
+"El administrador será redireccionado al backend."
+
+#: elementor/widgets/widget8.php:139
+msgid ""
+"After logout the user will be redirected to the selected page. The admin "
+"will be redirected too the same selected page."
+msgstr ""
+"Tras cerrar sesión el usuario será redireccionado a la página seleccionada. "
+"El administrador será redireccionado también a la misma página seleccionada."
+
+#. Author of the plugin
+msgid "Alberto G."
+msgstr "Alberto G."
+
+#: cusre-settings.php:1253
+msgid ""
+"All images will be saved on the site server, but are not displayed in the "
+"media library, helping to avoid deletion by mistake."
+msgstr ""
+"Todas las imágenes se guardarán en el servidor del sitio, pero no se "
+"mostrarán en la biblioteca de medios, ayudando a evitar que se eliminen por "
+"error."
+
+#: cusre-settings.php:221
+msgid ""
+"All the shortcodes will be enabled automatically on the WSHK settings panel "
+"and will follow activated while you keep enabled this function. "
+msgstr ""
+"Todos los shortcodes serán activados automáticamente en el panel de ajustes "
+"de WSHK y seguirán activados mientras esta función esté activa."
+
+#. Description of the plugin
+msgid ""
+"Are you building your custom my account page with Woo Shortcodes Kit and "
+"need set a customs URLS for the view orders, edit addresses and payment "
+"methods endpoint to send back to the user after the click in the action "
+"button? This plugin will do it exactly, add your container ID and the button "
+"will take the new action URL. But this plugin can do much more! with the "
+"custom blocks function, you can get a new world of posibilities to made a "
+"exclusive my account page!"
+msgstr ""
+"¡Estás construyendo tu página de mi cuenta personalizada con Woo Shortcodes "
+"Kit y necesitas fijar tus propios enlaces al botón ver pedidos, editar "
+"direcciones y añadir métodos de pago, para hacer que el usuario cuando haga "
+"clic en el botón pueda ver directamente la acción? Con este plugin podrás "
+"conseguirlo, ya que hace exáctamente eso. Solo necesitas añadir la ID de tu "
+"contenedor donde tienes puesto el shortcode de pedidos y cuando pulses el "
+"botón ver (pedidos), directamente cargará en el contenedor de pedidos y "
+"mostrara los detalles del pedido. ¡Pero eso no es todo, este plugin puede "
+"hacer mucho más, con la función de bloques personalizados puedes conseguir "
+"un nuevo mundo de posibilidades para hacer una página mi cuenta exclusiva!"
+
+#: cusre-settings.php:915
+msgid "AxisX title"
+msgstr "Titulo eje X"
+
+#: cusre-settings.php:913
+msgid "AxisY title"
+msgstr "Titulo eje Y"
+
+#: custom-redirections-for-whsk.php:333 custom-redirections-for-whsk.php:381
+msgid "Back to WSHK settings panel"
+msgstr "Volver al panel de ajustes de WSHK"
+
+#: elementor/widgets/widget9.php:535 elementor/widgets/widget9.php:801
+msgid "Background Color"
+msgstr "Color de Fondo"
+
+#: cusre-settings.php:943
+msgid "Bar"
+msgstr "Barra"
+
+#: cusre-settings.php:755
+msgid "Be sure that you are using the same ID used on Divi tabs module"
+msgstr ""
+"Asegúrate que estás utilizando la misma ID que en el módulo de pestañas de "
+"DIVI"
+
+#: cusre-settings.php:760
+msgid "Be sure that you are using the same ID used on Divi text modules. "
+msgstr ""
+"Asegúrate que estás utilizando la misma ID que en los módulos de texto de "
+"DIVI."
+
+#: elementor/widgets/widget9.php:354 elementor/widgets/widget9.php:588
+#: elementor/widgets/widget9.php:671 elementor/widgets/widget9.php:758
+#: elementor/widgets/widget9.php:873
+msgid "Border"
+msgstr "Borde"
+
+#: elementor/widgets/widget9.php:363 elementor/widgets/widget9.php:597
+#: elementor/widgets/widget9.php:680 elementor/widgets/widget9.php:767
+#: elementor/widgets/widget9.php:882
+msgid "Border Radius"
+msgstr "Radio del borde"
+
+#: cusre-settings.php:765
+msgid ""
+"Build each custom link using for example the DIVI text module, add a custom "
+"link how content on each text module and add a custom ID on each module for "
+"example open-tab0, and change the 0 with the given tab number."
+msgstr ""
+"Construye cada enlace personalizado utilizando por ejemplo el módulo de "
+"texto de DIVI, añade un enlace personalizado como contenido en cada módulo "
+"de texto y añade una ID personalizada en cada módulo, por ejemplo open-tab0, "
+"y cambia el 0 con el número de la pestaña."
+
+#: cusre-settings.php:765
+msgid ""
+"But if you are building a custom account page with these tabs and you want "
+"to make them linkable from the same page using custom links and hidding the "
+"by default tabs headers links, then you need to enable this function and "
+"follow these steps:"
+msgstr ""
+"Pero si estás construyendo tu página de cuenta personalizada con estas "
+"pestañas y quieres que sean enlazables desde la misma página utilizando "
+"enlaces personalizados y ocultar las cabeceras de las pestañas, entonces "
+"necesitas activar esta función y seguir estos pasos:"
+
+#: cusre-settings.php:1133
+msgid ""
+"By default have 5 custom ID to use in 5 differents containers for each user "
+"status, each ID can be used only once:"
+msgstr ""
+"Por defecto tienes 5 ID personalizadas para utilizar en 5 contenedores "
+"diferentes por cada estado de usuario, cada ID solo puede ser utilizada una "
+"vez:"
+
+#: cusre-settings.php:1267
+msgid ""
+"By default is limited to 200 KB, but you can control it easily using the "
+"predefined values, only need to choose one by sliding."
+msgstr ""
+"Por defecto está limitado a 200KB, pero puedes controlar el límite de manera "
+"sencilla utilizando los valores establecidos, solo necesitas elegir uno "
+"deslizando."
+
+#: cusre-settings.php:173
+msgid ""
+"By default, Elementor tabs do not have the ability to link... if you are "
+"creating a custom account page with these tabs and you want to make them "
+"linkable, you only need to enable this function and add the shortcode on the "
+"same page that uses the tabs."
+msgstr ""
+"Por defecto, las pestañas de Elementor no son enlazables... si estás creando "
+"tu página de cuenta personalizada con estás pestañas y quieres hacerlas "
+"enlazables, solo necesitas activar esta función y añadir el shortcode en la "
+"misma página donde uses las pestañas."
+
+#: cusre-settings.php:765
+msgid ""
+"By default, the Divi tabs module cant be linked from another pages and too "
+"cant be use with Custom Redirections for WooCommerce my account advanced "
+"actions... to get it, you need to add a custom ID (for example: my-tabs) on "
+"the DIVI tabs module."
+msgstr ""
+"Por defecto, el módulo de pestañas de DIVI no pueden ser enlazado desde "
+"otras páginas y tampoco pueden usarse con las Redirecciones personalizadas "
+"de acciones avanzadas de la página de cuenta... para conseguir esto, "
+"necesitas añadir una ID personalizada ( por ejemplo: my-tabs) en el módulo "
+"de pestañas de DIVI."
+
+#: cusre-settings.php:448
+msgid ""
+"By default, Woo Subscriptions only work with the default WC account system, "
+"but with this function all the links in the subscriptions table, related "
+"subscriptions and related orders will work with the Custom redirections "
+"function."
+msgstr ""
+"Por defecto, Woo Subscriptions solo funciona con el sistema de cuenta de "
+"WooCommerce por defecto, pero con esta función todos los enlaces de la tabla "
+"de suscripciones, suscripciones relacionadas y pedidos relacionados "
+"funcionarán con la función Redirecciones personalizadas."
+
+#: cusre-settings.php:403
+msgid ""
+"By enabling this feature, you will unlock WSHK templates in your Elementor "
+"template library."
+msgstr ""
+"Activando esta ventaja, desblpquearás las plantillas de WSHK en la libreria "
+"de plantillas de Elementor."
+
+#: cusre-settings.php:1456
+msgid "Can control for example the align, using the style text-align."
+msgstr ""
+"Puedes controlar por ejemplo la alineación, usando el estilo alineación del "
+"texto."
+
+#: cusre-settings.php:1459
+msgid ""
+"Can control for example the image size, usign the style width and height."
+msgstr ""
+"Puedes controlar por ejemplo el tamaño de la imagen, usando el estilo de "
+"anchura y altura."
+
+#: functions/wshk-woocharts.php:180
+msgid "CANCELLED"
+msgstr "CANCELADOS"
+
+#: elementor/widgets/widget9.php:914
+msgid "Caret"
+msgstr "Indicador"
+
+#: elementor/widgets/widget9.php:952
+msgid "Caret Color"
+msgstr "Color del indicador"
+
+#: elementor/widgets/widget9.php:930
+msgid "Caret Size"
+msgstr "Tamaño del indicador"
+
+#: cusre-settings.php:966
+msgid "Chart animation"
+msgstr "Animación de la gráfica"
+
+#: cusre-settings.php:918
+msgid "Chart currency/content"
+msgstr "Moneda/contenido de la gráfica"
+
+#: cusre-settings.php:968
+msgid "Chart height (in px)"
+msgstr "Altura de gráfica (en px)"
+
+#: cusre-settings.php:939
+msgid "CHART OPTIONS"
+msgstr "OPCIONES DE GRÁFICA"
+
+#: cusre-settings.php:943
+msgid "Chart type"
+msgstr "Tipo de gráfica"
+
+#: elementor/widgets/widget9.php:262
+msgid "Choose Template"
+msgstr "Elegir plantilla"
+
+#: cusre-settings.php:406
+msgid ""
+"Choose your favorite template, it can be inserted as another Elementor "
+"template."
+msgstr ""
+"Elige tu plantilla favorita, puedes insertarla como cualquier plantilla de "
+"Elementor."
+
+#: cusre-settings.php:1378
+msgid ""
+"Choosing the hide option, the avatar only will be hide while are on the edit "
+"account tab."
+msgstr ""
+"Eligiendo la opción ocultar, el avatar estará oculto mientras estés en la "
+"pestaña editar cuenta."
+
+#: cusre-settings.php:440
+msgid "Compatibility between Woo Subscriptions and Custom redirections"
+msgstr "Compatibilidad entre Woo Subscriptions y redirecciones personalizadas"
+
+#: cusre-settings.php:84
+msgid "COMPATIBILITY WITH THIRD PARTY PLUGINS"
+msgstr "COMPATIBILIDAD CON PLUGINS DE TERCEROS"
+
+#: cusre-settings.php:268
+msgid "Compatibility with third party plugins"
+msgstr "Compatibilidad con plugins de terceros"
+
+#: cusre-settings.php:662
+msgid "Compatibility with View Billing button"
+msgstr "Compatibilidad con el botón Ver Factura"
+
+#: functions/wshk-woocharts.php:176
+msgid "COMPLETED"
+msgstr "COMPLETADOS"
+
+#: elementor/widgets/widget1.php:30 elementor/widgets/widget4.php:31
+#: elementor/widgets/widget3.php:31 elementor/widgets/widget7.php:31
+#: elementor/widgets/widget8.php:32
+msgid "configuration panel"
+msgstr "Panel de configuración"
+
+#: elementor/widgets/widget9.php:146 elementor/widgets/widget9.php:251
+#: elementor/widgets/widget9.php:792
+msgid "Content"
+msgstr "Contenido"
+
+#: elementor/widgets/widget9.php:248
+msgid "Content Type"
+msgstr "Tipo de contenido"
+
+#: cusre-settings.php:1267
+msgid "Control the limit file size"
+msgstr "Controla el tamaño límite del archivo"
+
+#: cusre-settings.php:1562 cusre-settings.php:1640
+msgid "Copied:"
+msgstr "Copiado:"
+
+#: cusre-settings.php:1544 cusre-settings.php:1622
+msgid "Copy shortcode"
+msgstr "Copiar shortcode"
+
+#: cusre-settings.php:1571 cusre-settings.php:1649
+msgid "Copy the shortcode and paste in your custom post or page"
+msgstr "Copia el shortcode y pegalo en una página o publicación"
+
+#: cusre-settings.php:1543 cusre-settings.php:1567 cusre-settings.php:1621
+#: cusre-settings.php:1645
+msgid "Copy to Clipboard"
+msgstr "Copiar al portapapeles"
+
+#: cusre-settings.php:941
+msgid "Currency position"
+msgstr "Posición de la moneda"
+
+#: cusre-settings.php:1378
+msgid "Custom avatar shortcode compatibility"
+msgstr "Compatibilidad con shortcode de avatar personalizado"
+
+#: elementor/functions/custom-blocks-elementor.php:49
+msgid "Custom Blocks"
+msgstr "Bloques personalizados"
+
+#: cusre-settings.php:352
+msgid "Custom blocks for Elementor"
+msgstr "Bloques personalizados para Elementor"
+
+#: cusre-settings.php:1072
+msgid "Custom blocks for logged and non logged in users by ID"
+msgstr "Bloques personalizados por ID para usuarios logueados y no logueados"
+
+#: cusre-settings.php:757
+msgid "Custom ID for DIVI tabs module"
+msgstr "ID personalizada para el módulo de pestañas de DIVI"
+
+#: cusre-settings.php:762
+msgid "Custom ID for DIVI text module"
+msgstr "ID personalizada para el módulo de texto de DIVI"
+
+#: cusre-settings.php:255 cusre-settings.php:993
+msgid "Custom redirections for advanced actions of WooCommerce my account"
+msgstr ""
+"Redirecciones personalizadas para acciones avanzadas de la cuenta de "
+"WooCommerce"
+
+#: cusre-settings.php:1230
+msgid "Customer avatar uploader on edit account"
+msgstr "Cargador de avatar de usuario en editar cuenta"
+
+#: custom-redirections-for-whsk.php:326
+msgid "Deactivate"
+msgstr "Desactivar"
+
+#: cusre-settings.php:954 cusre-settings.php:956
+msgid "Display AxisX title"
+msgstr "Mostrar titulo del eje X"
+
+#: cusre-settings.php:950 cusre-settings.php:952
+msgid "Display AxisY title"
+msgstr "Mostrar titulo del eje Y"
+
+#: cusre-settings.php:962
+msgid "Display chart legend"
+msgstr "Mostrar leyenda de la gráfica"
+
+#: cusre-settings.php:886
+msgid "Display chart with user total spent according to the orders status"
+msgstr ""
+"Mostrar gráfica con total gastado por usuario dependiendo del estado del "
+"pedido"
+
+#: cusre-settings.php:958
+msgid "Display colors in tooltip"
+msgstr "Mostrar colores en la información"
+
+#: cusre-settings.php:960
+msgid "Display colors in tooltips"
+msgstr "Mostrar colores en la información"
+
+#: cusre-settings.php:941
+msgid "Display currency after the total"
+msgstr "Mostrar moneda después del total"
+
+#: cusre-settings.php:941
+msgid "Display currency before the total"
+msgstr "Mostrar moneda antes del total"
+
+#: cusre-settings.php:1394
+msgid "Display customer avatar with a shortcode"
+msgstr "Muestra el avatar del usuario con un shortcode"
+
+#: cusre-settings.php:945
+msgid "Display Top chart title"
+msgstr "Mostrar titulo superior de la gráfica"
+
+#: cusre-settings.php:947
+msgid "Display top chart title"
+msgstr "Mostrar titulo superior de la gráfica"
+
+#: cusre-settings.php:698
+msgid "DIVI tabs linkeables"
+msgstr "DIVI pestañas enlazables"
+
+#: cusre-settings.php:913
+msgid "DOLLARS, EUROS... "
+msgstr "DOLARES, EUROS..."
+
+#: elementor/widgets/widget9.php:293
+msgid "Downloads list"
+msgstr "Lista de Descargas"
+
+#: elementor/widgets/widget9.php:296
+msgid "Edit account"
+msgstr "Editar cuenta"
+
+#: cusre-settings.php:102
+msgid "Elementor tabs linkeables"
+msgstr "Elementor pestañas enlazables"
+
+#: custom-redirections-for-whsk.php:365
+msgid "Email Address"
+msgstr "Email de tu cuenta"
+
+#: elementor/functions/custom-blocks-elementor.php:64
+msgid "Enable Custom Blocks"
+msgstr "Activar Bloques personalizados"
+
+#: cusre-settings.php:665
+msgid "Enable custom redirections compatibility with View Billing button"
+msgstr ""
+"Activar la redirección personalizada compatible con el botón Ver Factura"
+
+#: elementor/widgets/widget9.php:90
+msgid "Enable Icon"
+msgstr "Activar icono"
+
+#: cusre-settings.php:375
+msgid ""
+"Enable the function on each element and choose if is visible or hidden for "
+"logged in users."
+msgstr ""
+"Activa esta función en cada elemento y elige si se muestra o se oculta para "
+"usuarios logueados."
+
+#: cusre-settings.php:369
+msgid ""
+"Enabling this function, you can restrict the content to be displayed to "
+"logged in users or non logged in users."
+msgstr ""
+"Activando esta función, puedes restringir el contenido de ser mostrado a "
+"usuarios logueados o no logueados."
+
+#: cusre-settings.php:1239
+msgid ""
+"Enabling this function, you will allow customers to upload their custom "
+"profile avatar."
+msgstr ""
+"Activando esta función, permitirás a los usuarios cargar su propio avatar de "
+"perfil."
+
+#: cusre-settings.php:1488
+msgid ""
+"Enabling this function, you will block the access to the WooCommerce "
+"products categories."
+msgstr ""
+"Activando esta función, bloquearás el acceso a las categorías de productos "
+"de WooCommerce"
+
+#: custom-redirections-for-whsk.php:353
+msgid ""
+"Enter your license key here, to activate the product, and get full feature "
+"updates and premium support."
+msgstr ""
+"Añade aquí tu clave de licencia, para activar el producto, recibir "
+"actualizaciones automáticas y soporte premium."
+
+#: functions/wshk-woocharts.php:182
+msgid "FAILED"
+msgstr "FALLIDOS"
+
+#: cusre-settings.php:1374
+msgid "File size limit"
+msgstr "Límite de tamaño de archivo"
+
+#: functions/wshk-wc.php:178
+msgid "File too large, must be less than <b>1 MB</b>"
+msgstr "Archivo demasiado grande, debe ser inferior a <b> 1 MB </b>"
+
+#: functions/wshk-wc.php:176
+msgid "File too large, must be less than <b>100 KB</b>"
+msgstr "Archivo demasiado grande, debe ser inferior a <b> 100 KB </b>"
+
+#: functions/wshk-wc.php:177 functions/wshk-wc.php:179
+msgid "File too large, must be less than <b>200 KB</b>"
+msgstr "Archivo demasiado grande, debe ser inferior a <b> 200 KB </b>"
+
+#: cusre-settings.php:872
+msgid ""
+"Find in this section all the functions and advanced shortcodes to enhance "
+"the possibilities of Woo Shortcodes Kit"
+msgstr ""
+"Encuentra en esta sección todas las funciones y shortcodes avanzados para "
+"mejorar las posibilidades de Woo Shortcodes Kit"
+
+#: cusre-settings.php:87
+msgid ""
+"Find in this section all the shortcodes and functions to enhance the "
+"compatibility with third-party plugins"
+msgstr ""
+"Encuentra en esta sección todos los shortcodes y funciones para mejorar la "
+"compatibilidad con plugins de terceros"
+
+#: cusre-settings.php:173 cusre-settings.php:765
+msgid ""
+"For example if you have 3 tabs created the link to each of them will be:"
+msgstr "Por ejemplo si tienes 3 pestañas creadas el enlace para cada una será:"
+
+#: cusre-settings.php:238
+msgid "Function"
+msgstr "Función"
+
+#: elementor/widgets/widget9.php:318
+msgid "General"
+msgstr "General"
+
+#: cusre-settings.php:114 cusre-settings.php:206 cusre-settings.php:362
+#: cusre-settings.php:398 cusre-settings.php:444 cusre-settings.php:470
+#: cusre-settings.php:551 cusre-settings.php:702 cusre-settings.php:789
+#: cusre-settings.php:890 cusre-settings.php:997 cusre-settings.php:1077
+#: cusre-settings.php:1234 cusre-settings.php:1398 cusre-settings.php:1483
+#: cusre-settings.php:1526 cusre-settings.php:1604
+msgid "Get help!"
+msgstr "¡Consigue ayuda!"
+
+#: custom-redirections-for-whsk.php:355
+msgid "Get the license key from the Orders & Keys panel in"
+msgstr "Consigue la clave de licencia desde el panel de Pedidos & Claves en"
+
+#: cusre-settings.php:1578 cusre-settings.php:1656
+msgid "Here write the product category ID number"
+msgstr "Escribe aquí la ID de la categoría de productos"
+
+#: elementor/functions/custom-blocks-elementor.php:93
+msgid "Hidden for:"
+msgstr "Oculto para:"
+
+#: cusre-settings.php:947 cusre-settings.php:952 cusre-settings.php:956
+#: cusre-settings.php:960 cusre-settings.php:1380
+msgid "Hide"
+msgstr "Ocultar"
+
+#: elementor/widgets/widget9.php:402
+msgid "Hide Tabs"
+msgstr "Ocultar pestañas"
+
+#: cusre-settings.php:1337 cusre-settings.php:1368
+msgid "HIGH"
+msgstr "ALTO"
+
+#: elementor/widgets/widget9.php:81
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: cusre-settings.php:943
+msgid "Horizontal Bar"
+msgstr "Barra Horizontal"
+
+#: elementor/widgets/widget9.php:611
+msgid "Hover"
+msgstr "Al pasar el cursor"
+
+#: cusre-settings.php:1526 cusre-settings.php:1604
+msgid "How does it work? "
+msgstr "¿Cómo funciona?"
+
+#: cusre-settings.php:114 cusre-settings.php:204 cusre-settings.php:362
+#: cusre-settings.php:398 cusre-settings.php:444 cusre-settings.php:470
+#: cusre-settings.php:551 cusre-settings.php:702 cusre-settings.php:789
+#: cusre-settings.php:890 cusre-settings.php:997 cusre-settings.php:1077
+#: cusre-settings.php:1234 cusre-settings.php:1398 cusre-settings.php:1483
+msgid "How work? "
+msgstr "¿Cómo funciona?"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://disespubli.com/"
+msgstr "https://disespubli.com/"
+
+#: elementor/widgets/widget9.php:176 elementor/widgets/widget9.php:192
+msgid "Icon"
+msgstr "Icono"
+
+#: elementor/widgets/widget9.php:571 elementor/widgets/widget9.php:654
+#: elementor/widgets/widget9.php:740
+msgid "Icon Color"
+msgstr "Color del icono"
+
+#: elementor/widgets/widget9.php:475
+msgid "Icon Gap"
+msgstr "Espacio del icono"
+
+#: elementor/widgets/widget9.php:100
+msgid "Icon Position"
+msgstr "Posición del Icono"
+
+#: elementor/widgets/widget9.php:450
+msgid "Icon Size"
+msgstr "Tamaño del Icono"
+
+#: elementor/widgets/widget9.php:167
+msgid "Icon Type"
+msgstr "Tipo de icono"
+
+#: cusre-settings.php:1491
+msgid ""
+"If any user tries to access a product category, they will be redirected to "
+"the store page automatically."
+msgstr ""
+"Si algún usuario intenta acceder a una categoría de producto, será "
+"redirigido a la página de tienda automáticamente."
+
+#: cusre-settings.php:173
+msgid ""
+"If the link you want to do from another page, add in the url of the button "
+"the link to the page and at the end add /#tab2 to redirect to the tab number "
+"two. For example:"
+msgstr ""
+"Si quieres enlazar desde otra página, añade en la URL del botón el enlace de "
+"la página y al final añade /#tab2 para redirigir a la pestaña numero dos. "
+"Por ejemplo:"
+
+#: cusre-settings.php:1259
+msgid ""
+"If the user wants to upload a second avatar, the first one will be removed, "
+"helping to avoid overloading on your server."
+msgstr ""
+"Si el usuario quiere cargar un segundo avatar, el primero será eliminado, "
+"ayudando a prevenir la sobrecarga de tu servidor."
+
+#: cusre-settings.php:474 cusre-settings.php:555 cusre-settings.php:611
+#: cusre-settings.php:793
+msgid "If you are building your custom account page, use this shortcode."
+msgstr ""
+"Si estás construyendo tu página de cuenta personalizada, usa este shortcode."
+
+#: cusre-settings.php:1043
+msgid ""
+"If you are using DIVI to build your account page, please enable the function "
+"called DIVI tabs linkeables from the section Compatibility with third party "
+"plugins."
+msgstr ""
+"Si estás utilizando DIVI para construir tu página de cuenta, por favor "
+"activa la función llamada DIVI pestañas enlazables desde la sección "
+"Compatibilidad con plugins de terceros."
+
+#: cusre-settings.php:1042
+msgid ""
+"If you are using Elementor to build your account page, please enable the "
+"function called Elementor Tabs linkeables from the section Compatibility "
+"with third party plugins."
+msgstr ""
+"Si estás utilizando Elementor para construir tu página de cuenta, por favor "
+"activa la función llamada Elementor pestañas enlazables desde la sección "
+"Compatibilidad con plugins de terceros."
+
+#: cusre-settings.php:1378
+msgid ""
+"If you are using the shortcode to display the customer avatar in your by "
+"default WooCommerce account page, you can decide if display or hide it while "
+"you are on the edit account tab."
+msgstr ""
+"Si estás utilizando el shortcode para mostrar el avatar personalizado en tu "
+"página de cuenta de WooCommerce por defecto, puedes decidir si mostrarlo u "
+"ocultarlo mientras estás en la pestaña editar cuenta."
+
+#: cusre-settings.php:527
+msgid ""
+"If you dont need display the subscriptions tab and just want use the view "
+"order details and the related subscriptions, just keep disabled this "
+"function and use same container ID for the orders and the subscriptions in "
+"the custom redirections fields. This function only must be enabled if you "
+"are using the custom shortcode."
+msgstr ""
+"Si no necesitas mostrar la pestaña de suscripciones y solo quieres usar Ver "
+"detalles del pedido y las suscripciones relacionadas, deja desactivada esta "
+"función y utiliza la misma ID de contenedor para los pedidos y las "
+"suscripciones en los campos de redirecciones personalizadas. Esta función "
+"solo debe ser activada si estás usando el shortcode personalizado."
+
+#: cusre-settings.php:224
+msgid ""
+"If you have set any shortcode option from Elementor and want edit from the "
+"WSHK settings panel, leave blank the option from Elementor first."
+msgstr ""
+"Si tienes configurada alguna opción de shortcode desde Elementor y quieres "
+"editarla desde el panel de ajustes de WSHK, deja en blanco la opción desde "
+"Elementor primero."
+
+#: cusre-settings.php:999
+msgid ""
+"If you want change your View Order, Edit Addresses and Payments methods "
+"action URLs, just need add your containers ID in each field:"
+msgstr ""
+"Si quieres cambiar las URLs de Ver detalles del pedido, Editar direcciones y "
+"Añadir métodos de pago, solo necesitas añadir la ID de los contenedores en "
+"cada campo relacionado:"
+
+#: cusre-settings.php:905
+msgid ""
+"If you want display the total spent by the current user in a chart, just "
+"need copy the shortcode and paste in your custom page"
+msgstr ""
+"Si quieres mostrar el total gastado por el usuario en la gráfica, solo "
+"necesitas copiar el shortcode y pegarlo en tu página personalizada"
+
+#: cusre-settings.php:765
+msgid ""
+"If you want link to any tab from another page, just add in the url of the "
+"external button the link to the page and at the end add /#my-tabs|1 to "
+"redirect to the tab number two. For example:"
+msgstr ""
+"Si quieres enlazar la pestaña desde otra página, solo necesitas añadir la "
+"URL del botón externo, el enlace a la página y al final añadir /#my-tabs|1 "
+"para redirigir a la pestaña número dos. Por ejemplo:"
+
+#: elementor/widgets/widget9.php:180 elementor/widgets/widget9.php:209
+msgid "Image"
+msgstr "Imagen"
+
+#: elementor/widgets/widget2.php:41 elementor/widgets/widget1.php:61
+#: elementor/widgets/widget4.php:50 elementor/widgets/widget6.php:41
+#: elementor/widgets/widget9.php:130 elementor/widgets/widget3.php:50
+#: elementor/widgets/widget7.php:52 elementor/widgets/widget8.php:54
+#: elementor/widgets/widget5.php:41
+msgid "Important"
+msgstr "Importante"
+
+#: elementor/widgets/widget9.php:106
+msgid "Inline"
+msgstr "Integrado"
+
+#: custom-redirections-for-whsk.php:292
+msgid "Invalid"
+msgstr "No válida"
+
+#: custom-redirections-for-whsk.php:348
+msgid "Invalid license code"
+msgstr "Clave de licencia no válida"
+
+#: cusre-settings.php:1494
+msgid ""
+"It is ready to work also if you are using WSHK function Build a new shop "
+"page from scratch."
+msgstr ""
+"Está preparada para funcionar también si utilizas la función de WSHK "
+"construir una página de tienda desde cero."
+
+#: cusre-settings.php:352
+msgid "Just need activate it and configure from Elementor builder!"
+msgstr "¡Solo necesitas activar y configurar desde Elementor!"
+
+#: cusre-settings.php:1394
+msgid "Just need activate it and copy the shortcode!"
+msgstr "¡Solo necesitas activar y copiar el shortcode!"
+
+#: cusre-settings.php:1230 cusre-settings.php:1479
+msgid "Just need activate it and nothing more!"
+msgstr "¡Solo necesitas activar y nada más!"
+
+#: cusre-settings.php:440
+msgid "Just need activate it and the plugins will work together!"
+msgstr "¡Solo necesitas activar y los plugins funcionarán juntos!"
+
+#: cusre-settings.php:466 cusre-settings.php:785
+msgid "Just need activate it and use in your custom account page!"
+msgstr ""
+"¡Solo necesitas activar y utilizar en tu página de cuenta personalizada!"
+
+#: cusre-settings.php:547
+msgid ""
+"Just need activate it and use the shortcodes in your custom account page!"
+msgstr ""
+"¡Solo necesitas activar y utilizar los shortcodes en tu página de cuenta "
+"personalizada!"
+
+#: cusre-settings.php:698
+msgid ""
+"Just need activate it if you are using the DIVI tabs and want them to be "
+"linkeable from custom links!"
+msgstr ""
+"¡Solo necesitas activarlo si estás utilizando las pestañas de DIVI y quieres "
+"que sean enlazables desde enlaces personalizados!"
+
+#: cusre-settings.php:102
+msgid ""
+"Just need activate it if you are using the Elementor tabs and want them to "
+"be linkeable!"
+msgstr ""
+"¡Solo necesitas activarlo si estás utilizando las pestañas de Elementor y "
+"quieres que sean enlazables!"
+
+#: cusre-settings.php:993
+msgid "Just need activate the function and add the containers ID!"
+msgstr "¡Solo necesitas activar la función y añadir el ID del contendor!"
+
+#: cusre-settings.php:1520 cusre-settings.php:1598
+msgid ""
+"Just need activate the function and copy the shortcode on any page or post!"
+msgstr ""
+"¡Solo necesitas activar la función y copiar el shortcode en cualquier página "
+"o publicación!"
+
+#: cusre-settings.php:1072
+msgid ""
+"Just need activate the function copy the block ID and paste in your custom "
+"ID container!"
+msgstr ""
+"¡Solo necesitas activar la función copiar el ID del bloque y pegarlo en el "
+"contenedor con el ID relacionado!"
+
+#: cusre-settings.php:886
+msgid ""
+"Just need activate, configure the options and paste the shortcode where you "
+"want!"
+msgstr ""
+"¡Solo necesitas activar la función, configurar las opciones y pegar el "
+"shortcode donde quieras!"
+
+#: elementor/widgets/widget9.php:76
+msgid "Layout"
+msgstr "Disposición"
+
+#: custom-redirections-for-whsk.php:361
+msgid "License code"
+msgstr "Clave de licencia"
+
+#: custom-redirections-for-whsk.php:306
+msgid "License Expired on"
+msgstr "Caducidad de la licencia"
+
+#: custom-redirections-for-whsk.php:299
+msgid "License Type"
+msgstr "Tipo de licencia"
+
+#: elementor/widgets/widget9.php:117
+msgid "Linkeable Tabs"
+msgstr "Pestañas enlazables"
+
+#: cusre-settings.php:668
+msgid "Linked Subscription"
+msgstr "Subscripción enlazada"
+
+#: cusre-settings.php:1177
+msgid "Logged in users"
+msgstr "Usuarios logueados"
+
+#: elementor/widgets/widget9.php:297
+msgid "Logout"
+msgstr "Cerrar sesión"
+
+#: elementor/widgets/widget9.php:277
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio, neque qui "
+"velit. Magni dolorum quidem ipsam eligendi, totam, facilis laudantium cum "
+"accusamus ullam voluptatibus commodi numquam, error, est. Ea, consequatur."
+msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio, neque qui "
+"velit. Magni dolorum quidem ipsam eligendi, totam, facilis laudantium cum "
+"accusamus ullam voluptatibus commodi numquam, error, est. Ea, consequatur."
+
+#: elementor/widgets/widget9.php:340 elementor/widgets/widget9.php:513
+#: elementor/widgets/widget9.php:859
+msgid "Margin"
+msgstr "Margen"
+
+#: cusre-settings.php:1035
+msgid "Membership container ID: "
+msgstr "ID contenedor Membresias:"
+
+#: cusre-settings.php:1520 cusre-settings.php:1598
+msgid "NEW"
+msgstr "NUEVO"
+
+#: elementor/functions/custom-blocks-elementor.php:68
+#: elementor/widgets/widget9.php:989
+msgid "No"
+msgstr "No"
+
+#: cusre-settings.php:1192
+msgid "Non Logged in users"
+msgstr "Usuarios no logueados"
+
+#: elementor/widgets/widget9.php:172
+msgid "None"
+msgstr "Ninguno"
+
+#: cusre-settings.php:1336 cusre-settings.php:1338 cusre-settings.php:1367
+#: cusre-settings.php:1371
+msgid "NORMAL"
+msgstr "NORMAL"
+
+#: elementor/widgets/widget9.php:528
+msgid "Normal"
+msgstr "Normal"
+
+#: functions/wshk-woocharts.php:177
+msgid "ON HOLD"
+msgstr "EN ESPERA"
+
+#: cusre-settings.php:762
+msgid "open-tab"
+msgstr "open-tab"
+
+#: cusre-settings.php:1335 cusre-settings.php:1366
+msgid "OPTIMIZED"
+msgstr "OPTIMIZADO"
+
+#: cusre-settings.php:1011
+msgid "Orders container ID: "
+msgstr "ID contenedor Pedidos:"
+
+#: elementor/widgets/widget9.php:292
+msgid "Orders list"
+msgstr "Lista de Pedidos"
+
+#: cusre-settings.php:915
+msgid "ORDERS STATUS"
+msgstr "ESTADO DEL PEDIDO"
+
+#: elementor/widgets/widget9.php:327 elementor/widgets/widget9.php:500
+#: elementor/widgets/widget9.php:846
+msgid "Padding"
+msgstr "Relleno"
+
+#: elementor/widgets/widget9.php:295
+msgid "Payment methods"
+msgstr "Métodos de Pago"
+
+#: cusre-settings.php:1024
+msgid "Payments methods container ID: "
+msgstr "ID contenedor Métodos de pago:"
+
+#: functions/wshk-woocharts.php:179
+msgid "PENDING"
+msgstr "PENDIENTES"
+
+#: functions/wshk-woocharts.php:178
+msgid "PROCESSING"
+msgstr "PROCESANDO"
+
+#: functions/wshk-woocharts.php:181
+msgid "REFUNDED"
+msgstr "REEMBOLSADOS"
+
+#: cusre-settings.php:1208
+msgid "Remember put this shortcode in the page to enable the function! "
+msgstr "¡Recuerda añadir este shortcode en la página para activar la función!"
+
+#: functions/wshk-wc.php:333
+msgid "Remove Avatar"
+msgstr "Eliminar Avatar"
+
+#: elementor/widgets/widget9.php:978
+msgid "Responsive Controls"
+msgstr "Controles de Adaptabilidad"
+
+#: cusre-settings.php:1479
+msgid "Restrict access to WooCommerce products categories and redirect to shop"
+msgstr ""
+"Restringir acceso a las categorías de producto de WooCommerce y redirigir a "
+"la tienda"
+
+#: cusre-settings.php:1133
+msgid "Restrict the content"
+msgstr "Restringir contenido"
+
+#: elementor/widgets/widget9.php:252
+msgid "Saved Templates"
+msgstr "Plantillas guardadas"
+
+#: cusre-settings.php:240
+msgid "Section"
+msgstr "Sección"
+
+#: elementor/widgets/widget9.php:156
+msgid "Set as Default"
+msgstr "Pestaña Activa"
+
+#: elementor/widgets/widget9.php:68
+msgid "Settings"
+msgstr "Ajustes"
+
+#: cusre-settings.php:1537 cusre-settings.php:1615
+msgid "Shortcode:"
+msgstr "Shortcode:"
+
+#: cusre-settings.php:947 cusre-settings.php:952 cusre-settings.php:956
+#: cusre-settings.php:960 cusre-settings.php:1380
+msgid "Show"
+msgstr "Mostrar"
+
+#: elementor/widgets/widget9.php:921
+msgid "Show Caret on Active Tab"
+msgstr "Mostrar indicador en pestaña activa"
+
+#: elementor/widgets/widget9.php:105
+msgid "Stacked"
+msgstr "Apilados"
+
+#: custom-redirections-for-whsk.php:287 cusre-settings.php:242
+msgid "Status"
+msgstr "Estado"
+
+#: cusre-settings.php:1031
+msgid "Subscriptions container ID: "
+msgstr "ID contenedor Suscripciones:"
+
+#: custom-redirections-for-whsk.php:313
+msgid "Support Expired on"
+msgstr "Caducidad del soporte"
+
+#: elementor/widgets/widget9.php:618 elementor/widgets/widget9.php:702
+msgid "Tab Background Color"
+msgstr "Color de fondo de la Pestaña"
+
+#: elementor/widgets/widget9.php:275
+msgid "Tab Content"
+msgstr "Contenido de las pestañas"
+
+#: elementor/widgets/widget9.php:225 elementor/widgets/widget9.php:227
+#: elementor/widgets/widget9.php:394
+msgid "Tab Title"
+msgstr "Título de la pestaña"
+
+#: elementor/widgets/widget9.php:558 elementor/widgets/widget9.php:641
+#: elementor/widgets/widget9.php:726 elementor/widgets/widget9.php:824
+msgid "Text Color"
+msgstr "Color de texto"
+
+#: cusre-settings.php:372
+msgid ""
+"The configuration will be from Elementor page builder, just edit a section "
+"and go to advanced tab. "
+msgstr ""
+"La configuración será de Elementor, solo edite una sección y vaya a la "
+"pestaña avanzada."
+
+#: cusre-settings.php:1242
+msgid ""
+"The custom avatar is displayed correctly on all sites where the user avatar "
+"is used by default."
+msgstr ""
+"El avatar personalizado será mostrado correctamente en todos los sitios "
+"donde se utiliza el avatar del usuario por defecto."
+
+#: cusre-settings.php:231
+msgid "The following functions will be activated automatically:"
+msgstr "Las siguientes funciones serán activadas automáticamente:"
+
+#: cusre-settings.php:1046
+msgid ""
+"The function is compatible with Webtoffee Subscriptions, but need activate "
+"too the function called Webtoffee Subscriptions compatibility and custom "
+"shortcode, from the section Compatibility with third party plugins."
+msgstr ""
+"La función es compatible con Webtoffee Subscriptions, pero necesita que "
+"actives también la función llamada Compatibilidad con Webtoffee "
+"Subscriptions y shortcodes, desde la sección Compatibilidad con plugins de "
+"terceros."
+
+#: cusre-settings.php:1045
+msgid ""
+"The function is compatible with Woo Membership, but need activate too the "
+"function called Woo Membership compatibility and shortcodes, from the "
+"section Compatibility with third party plugins."
+msgstr ""
+"La función es compatible con Woo Membership, pero necesita que actives "
+"también la función llamada Compatibilidad con Woo Membership y shortcodes, "
+"desde la sección Compatibilidad con plugins de terceros."
+
+#: cusre-settings.php:1044
+msgid ""
+"The function is compatible with Woo Subscriptions, but need activate too the "
+"function called Compatibility between Woo Subscriptions and Custom "
+"redirections, from the section Compatibility with third party plugins."
+msgstr ""
+"La función es compatible con Woo Subscriptions, pero necesita que actives "
+"también la función llamada Compatibilidad entre Woo Subscriptions y "
+"Redirecciones personalizadas desde la sección Compatibilidad con plugins de "
+"terceros."
+
+#: cusre-settings.php:118 cusre-settings.php:474 cusre-settings.php:705
+#: cusre-settings.php:793 cusre-settings.php:1080 cusre-settings.php:1606
+msgid "The shortcode"
+msgstr "Shortcode"
+
+#: cusre-settings.php:1451
+msgid "The Style classes"
+msgstr "Clases de estilos"
+
+#: cusre-settings.php:1246
+msgid ""
+"The uploader will be added in the edit account form and can only upload "
+"images in JPG or PNG format. "
+msgstr ""
+"El cargador será añadido en el formulario de editar la cuenta y solo podrá "
+"subir imágenes en formato JPG o PNG."
+
+#: cusre-settings.php:906
+msgid ""
+"The Y-axis and X-axis graphics titles are set by default for the bar graph "
+"type, so if you use the horizontal bar type, remember to change the order of "
+"the axis titles."
+msgstr ""
+"Los titulos del eje Y y el eje X están predefinidos por defecto para el tipo "
+"de gráfica de barra, por lo que si utilizas el tipo barra horizontal, "
+"recuerda cambiar el orden de titulos de los ejes."
+
+#: elementor/widgets/widget9.php:422
+msgid "Title Min Width"
+msgstr "Ancho mínimo del título"
+
+#: cusre-settings.php:673
+msgid ""
+"To customize the redirection of advanced actions, you need to go to WOO "
+"SHORTCODES KIT PRO SETTINGS, look for the function called: Custom "
+"redirections for advanced actions of WooCommerce my account, and configure "
+"the ID of the container to redirect."
+msgstr ""
+"Para personalizar la redirección de las acciones avanzadas, necesitas ir a "
+"la sección AJUSTES WOO SHORTCODES KIT PRO, buscar la función llamada: "
+"Redirecciones personalizadas para acciones avanzadas de la cuenta de "
+"WooCommerce y configurar la ID de los contenedores para redirigir."
+
+#: cusre-settings.php:911
+msgid "Top chart title"
+msgstr "Titulo superior de gráfica"
+
+#: cusre-settings.php:911
+msgid "TOTAL BALANCE "
+msgstr "BALANCE TOTAL"
+
+#: cusre-settings.php:1520
+msgid "Total sales amount by product category"
+msgstr "Total de ventas por categoría de producto"
+
+#: cusre-settings.php:1598
+msgid "Total sales counter by product category"
+msgstr "Contador de ventas totales por categoría de producto"
+
+#: cusre-settings.php:909
+msgid "TOTAL SPENT CHART SHORTCODE"
+msgstr "TOTAL GASTADO SHORTCODE"
+
+#: functions/wshk-wc.php:139
+msgid "Upload you custom avatar (JPG, PNG)"
+msgstr "Sube tu avatar personalizado (JPG, PNG)"
+
+#: elementor/widgets/widget9.php:82
+msgid "Vertical"
+msgstr "Vertical"
+
+#: elementor/widgets/widget9.php:986
+msgid "Vertical Layout"
+msgstr "Disposición vertical"
+
+#: cusre-settings.php:668
+msgid "View Billing button text"
+msgstr "Texto botón Ver Factura "
+
+#: elementor/functions/custom-blocks-elementor.php:77
+msgid "Visible for:"
+msgstr "Visible para:"
+
+#: cusre-settings.php:785
+msgid "Webtoffee Subscriptions compatibility and custom shortcode"
+msgstr "Webtoffee Suscriptions compatibilidad y shortcode personalizado"
+
+#: cusre-settings.php:662
+msgid ""
+"When a membership is linked to a subscription, a new action button appears "
+"in the membership table called \"View billing.\" Originally after pressing "
+"this button the user is redirected to the subscription details, so if you "
+"already have a tab with the subscription shortcode configured, you just have "
+"to activate this option."
+msgstr ""
+"Cuando una membresía está enlazada a una suscripción, aparecerá en la tabla "
+"de membresía un nuevo botón de acción llamado \"Ver Factura\". Originalmente "
+"tras pulsar este botón el usuario es redirigido a los detalles de la "
+"suscripción, por lo que si tienes una pestaña con el shortcode de "
+"suscripción configurado, solo necesitas activar esta opción para redirigir "
+"al usuario hacia la pestaña."
+
+#: cusre-settings.php:547
+msgid "Woo Membership compatibility and shortcodes"
+msgstr "Woo Membership compatibilidad y shortcodes"
+
+#: cusre-settings.php:611
+msgid "Woo Membership content shortcode"
+msgstr "Woo Membership shortcode del contenido"
+
+#: cusre-settings.php:555
+msgid "Woo Membership table shortcode"
+msgstr "Woo Membership shortcode de la tabla"
+
+#. Name of the plugin
+msgid "Woo Shortcodes Kit PRO"
+msgstr "Woo Shortcodes Kit PRO"
+
+#: custom-redirections-for-whsk.php:282
+msgid "Woo Shortcodes Kit PRO License Info"
+msgstr "Woo Shortcodes Kit PRO información de licencia"
+
+#: custom-redirections-for-whsk.php:342
+msgid "Woo Shortcodes Kit PRO Licensing"
+msgstr "Woo Shortcodes Kit PRO Licencia"
+
+#: custom-redirections-for-whsk.php:43
+#, php-format
+msgid ""
+"Woo Shortcodes Kit PRO requires Woo Shortcodes Kit to be installed and "
+"active. You can download %s here."
+msgstr ""
+"Woo Shortcodes Kit PRO requiere que Woo Shortcodes Kit esté instalado y "
+"activo. Puedes descargar %s desde aquí."
+
+#: cusre-settings.php:871
+msgid "WOO SHORTCODES KIT PRO SETTINGS"
+msgstr "AJUSTES WOO SHORTCODES KIT PRO"
+
+#: cusre-settings.php:267
+msgid "Woo Shortcodes Kit PRO settings"
+msgstr "Ajustes Woo Shortcodes Kit PRO"
+
+#: cusre-settings.php:466
+msgid "Woo Subscriptions custom shortcode"
+msgstr "Woo Subscriptions shortcode personalizado"
+
+#: cusre-settings.php:394
+msgid "Works with the same Elementor templates library!"
+msgstr "¡Funciona con la misma librería de plantillas de Elementor!"
+
+#: custom-redirections-for-whsk.php:356
+msgid "Write your license key and your account email"
+msgstr "Escribe tu clave de licencia y el email de tu cuenta"
+
+#: cusre-settings.php:190
+msgid "WSHK account shortcodes & Advanced tabs - widgets for Elementor"
+msgstr ""
+"WSHK shortcodes de cuenta & Pestañas avanzadas - widgets para Elementor"
+
+#: cusre-settings.php:394
+msgid "WSHK custom templates for Elementor"
+msgstr "WSHK plantillas personalizadas para Elementor"
+
+#: elementor/functions/custom-blocks-elementor.php:67
+#: elementor/widgets/widget9.php:988
+msgid "Yes"
+msgstr "Si"
+
+#: cusre-settings.php:1256
+msgid ""
+"You can find easily where are located the custom avatar, just need to "
+"inspect each user avatar and follow the image URL."
+msgstr ""
+"Puedes encontrar fácilmente dónde se encuentran los avatares personalizados, "
+"solo necesita inspeccionar cada avatar de usuario y seguir la URL de la "
+"imagen."
+
+#: cusre-settings.php:409
+msgid ""
+"You can search for WSHK in Elementor template library and it will show all "
+"WSHK templates."
+msgstr ""
+"Puedes buscar por WSHK en la librería de plantillas de Elementor y se "
+"mostrarán las plantillas de WSHK."
+
+#: cusre-settings.php:1528 cusre-settings.php:1606
+msgid "You can use it on any page or post"
+msgstr "Puedes utilizarlo en cualquier página o publicación"
+
+#: cusre-settings.php:118 cusre-settings.php:705
+msgid "You can use it on any page or post. "
+msgstr "Puedes usarlo en cualquier página o publicación."
+
+#: cusre-settings.php:1080
+msgid ""
+"You can use it on any page or post. Adding the shortcode will activate on "
+"that page or post the possibility to restrict the content."
+msgstr ""
+"Puedes usarlo en cualquier página o publicación. Agregar el shortcode "
+"activará en esa página o publicación la posibilidad de restringir el "
+"contenido."
+
+#: cusre-settings.php:1451
+msgid "You can use it to apply custom CSS style"
+msgstr "Puedes usarlo para aplicar un estilo CSS personalizado"
+
+#: cusre-settings.php:1133
+msgid ""
+"You can use the differents IDs for restrict content depending of the user "
+"status."
+msgstr ""
+"Puedes usar las diferentes ID para restringir el contenido según el estado "
+"del usuario."
+
+#: cusre-settings.php:1578 cusre-settings.php:1656
+msgid ""
+"You can use the shortcode where you want only need  to add the product "
+"category ID"
+msgstr ""
+"Puedes utilizar el shortcode donde quieras, solo necesitas añadir la ID de "
+"la categoría de producto"
+
+#: functions/wshk-wc.php:162
+msgid ""
+"You must upload an <b>image (.JPG or .PNG)</b>, please go back and try again."
+msgstr ""
+"Debes cargar una <b> imagen (.JPG o .PNG) </b>, regrese e inténtelo "
+"nuevamente."
+
+#: cusre-settings.php:765
+msgid ""
+"You need to add on each custom link an ID open-tab0 (changing the 0 with the "
+"tab number)."
+msgstr ""
+"Debes agregar en cada enlace personalizado una ID open-tab0 (cambiando el 0 "
+"con el número de pestaña)."
+
+#: cusre-settings.php:448
+msgid ""
+"You only need enable the function and configure the custom redirections "
+"fields with the containers ID. "
+msgstr ""
+"Solo necesitas habilitar la función y configurar los campos de "
+"redireccionamiento personalizados con la ID de los contenedores."
+
+#: cusre-settings.php:173
+msgid ""
+"You will get each tab to have an identifier to be able to link to it "
+"directly without having to click on the same tab. "
+msgstr ""
+"Conseguirás que cada pestaña tenga un identificador para poder enlazar "
+"directamente sin tener que hacer clic en la misma pestaña."
+
+#: cusre-settings.php:765
+msgid ""
+"You will get each tab to have an identifier to be able to link to it, then "
+"you can copy the tab identifier slug related with the orders list, addresses "
+"and payments method and paste it on the function Custom Redirections for "
+"WooCommerce my account advanced actions."
+msgstr ""
+"Obtendrás que cada pestaña tenga un identificador para poder vincularla, "
+"luego puedes copiar el slug del identificador de pestaña relacionado con la "
+"lista de pedidos, las direcciones y el método de pago y pegarlo en la "
+"función Redirecciones personalizadas para acciones avanzadas de mi cuenta de "
+"WooCommerce."
+
+#: custom-redirections-for-whsk.php:355
+msgid "your account page"
+msgstr "tu zona de usuario"
+
+#: cusre-settings.php:939
+msgid "Your chart, your rules"
+msgstr "Tu gráfica, tus reglas"
+
+#: custom-redirections-for-whsk.php:319
+msgid "Your License Key"
+msgstr "Tu clave de licencia"
